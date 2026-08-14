@@ -23,4 +23,4 @@ Python · SQL · R · PySpark · Pandas · NumPy · SciPy · scikit-learn · PyT
 
 I prefer projects where a model has to earn its place against a baseline. Negative results remain visible when they expose leakage, poor generalisation or the need to reformulate the decision, and CV metrics are limited to results that can be traced back to retained evidence.
 
-**Open to junior / graduate opportunities in Data Science, Machine Learning Engineering, Applied AI and Analytics.**
+**Open to entry-level roles, internships, graduate schemes and junior opportunities across Data Science, Machine Learning, Applied AI and Analytics.**
