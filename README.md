@@ -13,7 +13,7 @@ I use Python, SQL and machine learning to analyse data, build models and test wh
 - **Image Classification with EfficientNet** — fine-tuned EfficientNet-B0 and added Grad-CAM, confidence-based rejection and export checks. Test accuracy 85.9% and macro-F1 85.8%.
 - **Retrieval-Augmented Generation Application** — built a local RAG application with source citations, weak-match refusal, read-only ticket analytics, FastAPI, Docker and prompt-injection checks.
 - **A/B Testing & Experiment Analysis** — built an experiment-analysis project with CUPED, confidence intervals, guardrails and power calculations.
-- **Model Monitoring** — built a monitoring demo covering drift, model performance and calibration.
+- **Model Monitoring & Drift Detection** — built a monitoring demo covering drift, model performance and calibration.
 - **[Data Analyst Bootcamp Portfolio](https://github.com/Jorgoluka100/primed-talent-data-analyst-bootcamp)** — Python, SQL, cleaning, regression, reporting and business-analysis work.
 
 ## Technical skills
