@@ -1,32 +1,28 @@
-# Hi, I'm Jorgo Luka
+# Jorgo Luka
 
-**MSc Artificial Intelligence & Data Science (Distinction)**  
-**Data Science · Machine Learning · Applied AI · Analytics**
+MSc Artificial Intelligence & Data Science (Distinction)
 
-I use Python, SQL and machine learning to analyse data, build models and test whether they work on held-out data. I care about clean data, sensible baselines, reproducible results and being clear about limitations.
+I work mainly with Python, SQL and machine learning. My portfolio is focused on projects I can explain properly in an interview: how I checked the data, chose the validation setup, compared against a baseline and decided whether the result was actually useful.
 
-## Selected projects
+## Main portfolio
 
-- **[AI & Data Science Portfolio](https://github.com/Jorgoluka100/uni_projects)** — my main portfolio with data science, machine learning, SQL, R, PySpark and applied AI projects.
-- **Flight Delay Prediction & Risk Analysis** — used official 2026 US flight data to predict 15+ minute arrival delays. PR-AUC 0.291 vs 0.215 delay rate; the highest-risk 10% of flights had 1.58x the normal delay rate on the untouched May test set.
-- **E-commerce Customer & Sales Analysis** — cleaned and analysed 98,199 orders and 94,983 customers and reconciled R$13.49M in merchandise value using SQL, DuckDB and Pandas.
-- **Image Classification with EfficientNet** — fine-tuned EfficientNet-B0 and added Grad-CAM, confidence-based rejection and export checks. Test accuracy 85.9% and macro-F1 85.8%.
-- **Retrieval-Augmented Generation Application** — built a local RAG application with source citations, weak-match refusal, read-only ticket analytics, FastAPI, Docker and prompt-injection checks.
-- **A/B Testing & Experiment Analysis** — built an experiment-analysis project with CUPED, confidence intervals, guardrails and power calculations.
-- **Model Monitoring & Drift Detection** — built a monitoring demo covering drift, model performance and calibration.
-- **[Data Analyst Bootcamp Portfolio](https://github.com/Jorgoluka100/primed-talent-data-analyst-bootcamp)** — Python, SQL, cleaning, regression, reporting and business-analysis work.
+**[AI & Data Science Projects](https://github.com/Jorgoluka100/uni_projects)**
 
-## Technical skills
+A few projects I would start with:
 
-Python · SQL · R · PySpark · Pandas · NumPy · SciPy · scikit-learn · PyTorch · TensorFlow/Keras · CatBoost · PostgreSQL · DuckDB · Spark SQL · FastAPI · Docker · GitHub Actions · NLP / information retrieval · computer vision · experimentation · model monitoring
+- **Flight delay prediction** — trained on official 2026 US flight data with a chronological split. On the untouched May test set, PR-AUC was **0.291** against a **0.215** delay rate, and the highest-risk 10% of flights had **1.58x** the normal delay rate.
+- **E-commerce SQL analysis** — checked joins, customer/order grain and reconciled reporting across **98,199 orders**, **94,983 customers** and **R$13.49M** merchandise value.
+- **Image classification** — fine-tuned EfficientNet-B0 and added Grad-CAM, confidence-based rejection and model export checks. Test accuracy was **85.9%** with **85.8% macro-F1**.
+- **Retrieval application** — built a small local RAG-style support tool with source attribution, abstention on weak matches, FastAPI, Docker and prompt-injection tests.
+- **Experiment analysis** — implemented A/B-test analysis with confidence intervals, CUPED, guardrails and power calculations.
+- **Model monitoring** — built checks for data drift, model performance and calibration using deliberately shifted batches.
 
-## How I work
+I also keep a separate **[Data Analyst Bootcamp repository](https://github.com/Jorgoluka100/primed-talent-data-analyst-bootcamp)** with smaller Python, SQL, cleaning and modelling exercises.
 
-1. Check and clean the data before modelling.
-2. Keep training and test data separate in a way that matches the real problem.
-3. Compare models against a simple baseline.
-4. Save results that can be reproduced.
-5. Review errors and limitations as well as headline metrics.
-6. Keep the code clear enough to explain in an interview.
+## Tools
 
-**Open to entry-level, graduate, internship and junior opportunities in Data Science, Machine Learning, Applied AI and Analytics.**
+Python · SQL · Pandas · NumPy · scikit-learn · PyTorch · TensorFlow/Keras · CatBoost · DuckDB · PostgreSQL · PySpark · FastAPI · Docker · GitHub Actions
+
+## What I am looking for
+
+Graduate, junior and entry-level roles across data science, machine learning, applied AI and analytics.
