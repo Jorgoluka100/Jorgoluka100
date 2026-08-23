@@ -12,6 +12,7 @@ A few projects I would start with:
 
 - **Flight delay prediction** — trained on official 2026 US flight data with a chronological split. On the untouched May test set, PR-AUC was **0.291** against a **0.215** delay rate, and the highest-risk 10% of flights had **1.58x** the normal delay rate.
 - **E-commerce SQL analysis** — checked joins, customer/order grain and reconciled reporting across **98,199 orders**, **94,983 customers** and **R$13.49M** merchandise value.
+- **Retail data cleaning & segmentation** — audited **541,909 raw transaction rows**, applied explicit duplicate/missing-ID/cancellation/invalid-value rules, retained **392,692 valid purchases** for **4,338 customers**, then built and stability-checked an RFM customer segmentation.
 - **Image classification** — fine-tuned EfficientNet-B0 and added Grad-CAM, confidence-based rejection and model export checks. Test accuracy was **85.9%** with **85.8% macro-F1**.
 - **Retrieval application** — built a small local RAG-style support tool with source attribution, abstention on weak matches, FastAPI, Docker and prompt-injection tests.
 - **Experiment analysis** — implemented A/B-test analysis with confidence intervals, CUPED, guardrails and power calculations.
