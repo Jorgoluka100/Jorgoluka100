@@ -1,29 +1,40 @@
 # Jorgo Luka
 
-MSc Artificial Intelligence & Data Science (Distinction)
+**MSc Artificial Intelligence & Data Science (Distinction)**  
+**Data Science · ML/AI Engineering · Data Engineering · Analytics**
 
-I work mainly with Python, SQL and machine learning. My portfolio is focused on projects I can explain properly in an interview: how I checked the data, chose the validation setup, compared against a baseline and decided whether the result was actually useful.
+I build data and AI projects that I can defend in an interview: where the data came from, how I cleaned it, why the validation design makes sense, what baseline I used, where the model can fail, and whether the code can be rerun and tested.
+
+## Start here
+
+| Role | Projects I would open first |
+| --- | --- |
+| **Graduate / Junior Data Scientist** | [Flight delay risk](https://github.com/Jorgoluka100/uni_projects/tree/main/projects/flight_delay_risk) · [Customer churn](https://github.com/Jorgoluka100/uni_projects/tree/main/projects/customer_churn_prediction) · [ExperimentLab](https://github.com/Jorgoluka100/uni_projects/tree/main/projects/experiment_lab) |
+| **Graduate / Junior Data Engineer** | [Reliable event pipeline](https://github.com/Jorgoluka100/uni_projects/tree/main/projects/reliable_event_pipeline) · [PySpark clickstream](https://github.com/Jorgoluka100/uni_projects/tree/main/projects/pyspark_clickstream_analytics) · [E-commerce SQL](https://github.com/Jorgoluka100/uni_projects/tree/main/projects/ecommerce_sql_analytics) |
+| **Graduate / Junior AI or ML Engineer** | [Grounded RAG](https://github.com/Jorgoluka100/uni_projects/tree/main/projects/grounded_rag) · [Image classification](https://github.com/Jorgoluka100/uni_projects/tree/main/projects/image_classification_confidence) · [ModelWatch](https://github.com/Jorgoluka100/uni_projects/tree/main/projects/model_watch) |
+| **Data / Technical Analyst** | [E-commerce SQL](https://github.com/Jorgoluka100/uni_projects/tree/main/projects/ecommerce_sql_analytics) · [Retail segmentation](https://github.com/Jorgoluka100/uni_projects/tree/main/projects/retail_customer_segmentation) · [Energy forecasting](https://github.com/Jorgoluka100/uni_projects/tree/main/projects/energy_demand_forecasting) |
+
+## What the portfolio proves
+
+- **Messy data:** explicit validation, reject rules, deduplication, reconciliation and missing-value handling
+- **SQL & pipelines:** relational modelling, incremental ingestion, PySpark transformations and data-quality checks
+- **Machine learning:** classification, regression, clustering, forecasting, calibration and model monitoring
+- **Statistics:** hypothesis testing, confidence intervals, CUPED, power and leakage-aware evaluation
+- **Applied AI:** retrieval, source attribution, abstention, tool routing, NLP ranking, FastAPI and Docker
+- **Engineering habits:** tests, CI, machine-readable evidence, reproducible runs and documented limitations
 
 ## Main portfolio
 
-**[AI & Data Science Projects](https://github.com/Jorgoluka100/uni_projects)**
+**[AI & Data Science Projects →](https://github.com/Jorgoluka100/uni_projects)**
 
-A few projects I would start with:
+The repository is organised so the recruiter-facing projects are separate from older university and learning notebooks. Each flagship project has its own README and the strongest ones include tests, retained evidence and CI checks.
 
-- **Flight delay prediction** — trained on official 2026 US flight data with a chronological split. On the untouched May test set, PR-AUC was **0.291** against a **0.215** delay rate, and the highest-risk 10% of flights had **1.58x** the normal delay rate.
-- **E-commerce SQL analysis** — checked joins, customer/order grain and reconciled reporting across **98,199 orders**, **94,983 customers** and **R$13.49M** merchandise value.
-- **Retail data cleaning & segmentation** — audited **541,909 raw transaction rows**, applied explicit duplicate/missing-ID/cancellation/invalid-value rules, retained **392,692 valid purchases** for **4,338 customers**, then built and stability-checked an RFM customer segmentation.
-- **Image classification** — fine-tuned EfficientNet-B0 and added Grad-CAM, confidence-based rejection and model export checks. Test accuracy was **85.9%** with **85.8% macro-F1**.
-- **Retrieval application** — built a small local RAG-style support tool with source attribution, abstention on weak matches, FastAPI, Docker and prompt-injection tests.
-- **Experiment analysis** — implemented A/B-test analysis with confidence intervals, CUPED, guardrails and power calculations.
-- **Model monitoring** — built checks for data drift, model performance and calibration using deliberately shifted batches.
+I also keep a separate **[Data Analyst Bootcamp repository](https://github.com/Jorgoluka100/primed-talent-data-analyst-bootcamp)** for smaller exercises; it is supporting evidence rather than the main portfolio.
 
-I also keep a separate **[Data Analyst Bootcamp repository](https://github.com/Jorgoluka100/primed-talent-data-analyst-bootcamp)** with smaller Python, SQL, cleaning and modelling exercises.
+## Stack
 
-## Tools
+Python · SQL · Pandas · NumPy · scikit-learn · PyTorch · TensorFlow/Keras · CatBoost · PostgreSQL · DuckDB · PySpark · FastAPI · Docker · GitHub Actions
 
-Python · SQL · Pandas · NumPy · scikit-learn · PyTorch · TensorFlow/Keras · CatBoost · DuckDB · PostgreSQL · PySpark · FastAPI · Docker · GitHub Actions
+## Current focus
 
-## What I am looking for
-
-Graduate, junior and entry-level roles across data science, machine learning, applied AI and analytics.
+Graduate and junior opportunities across **data science, data engineering, ML/AI engineering, applied AI and analytics** in London / the UK.
