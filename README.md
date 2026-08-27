@@ -15,17 +15,22 @@ My portfolio keeps my original MSc work visible and puts strengthened versions b
 - **[Grounded RAG](https://github.com/Jorgoluka100/uni_projects/tree/main/projects/grounded_rag)** — text retrieval, citations, abstention, prompt-injection checks, FastAPI and Docker.
 - **[Flight Delay Risk](https://github.com/Jorgoluka100/uni_projects/tree/main/projects/flight_delay_risk)** — official 2026 US flight data with chronological validation and an untouched **180,000-flight** test set.
 
-## What I can demonstrate in code
+## Fundamentals I can explain from code
 
-| Area | Evidence |
+**[Focused Data & AI Skills Lab →](https://github.com/Jorgoluka100/uni_projects/tree/main/skills)**
+
+| Area | Direct evidence |
 | --- | --- |
-| **Cleaning / preprocessing / Pandas / NumPy** | Parkinson's, churn, flight-delay and analyst projects |
-| **Feature engineering & scikit-learn** | Parkinson's, UK house prices, churn and flight-delay modelling |
-| **PyTorch / CNNs / image data** | Image Classification + original CNN university notebook |
+| **Data cleaning / preprocessing** | [focused notebook](https://github.com/Jorgoluka100/uni_projects/blob/main/skills/01_data_cleaning_preprocessing.ipynb) + Parkinson's project |
+| **NumPy** | [NumPy for ML](https://github.com/Jorgoluka100/uni_projects/blob/main/skills/02_numpy_for_machine_learning.ipynb) |
+| **scikit-learn** | [end-to-end classification](https://github.com/Jorgoluka100/uni_projects/blob/main/skills/03_sklearn_end_to_end_classification.ipynb) + tabular projects |
+| **PyTorch / neural networks** | [MLP fundamentals](https://github.com/Jorgoluka100/uni_projects/blob/main/skills/04_pytorch_neural_network_fundamentals.ipynb) + Image Classification |
+| **LSTM / sequence modelling** | [LSTM fundamentals](https://github.com/Jorgoluka100/uni_projects/blob/main/skills/05_lstm_sequence_modelling.ipynb) |
+| **Text classification** | [TF-IDF baseline](https://github.com/Jorgoluka100/uni_projects/blob/main/skills/06_text_classification_tfidf.ipynb) + Grounded RAG |
+| **CNNs / image data** | [CNN fundamentals](https://github.com/Jorgoluka100/uni_projects/blob/main/skills/07_cnn_image_fundamentals.ipynb) + Image Classification |
 | **TensorFlow / time series** | Energy Demand Forecasting + original TensorFlow notebook |
 | **PySpark / larger datasets** | Clickstream Analytics + original PySpark university notebook |
 | **SQL / analytics** | E-commerce SQL Analytics + analyst portfolio |
-| **Text / LLM / RAG** | Grounded RAG and retained language-model work |
 | **Testing / APIs / CI / engineering** | Reliable Event Pipeline, Grounded RAG and ModelWatch |
 
 ## Original MSc work stays visible
@@ -37,7 +42,7 @@ The main repository retains the executed university notebooks rather than deleti
 ## Portfolio
 
 **[Main Data & AI portfolio →](https://github.com/Jorgoluka100/uni_projects)**  
-Original university work plus strengthened projects across machine learning, SQL, pipelines, experimentation, RAG, computer vision, monitoring and PySpark.
+Focused fundamentals, original university work and strengthened projects across machine learning, SQL, pipelines, experimentation, RAG, computer vision, monitoring and PySpark.
 
 **[Data Analyst portfolio →](https://github.com/Jorgoluka100/primed-talent-data-analyst-bootcamp)**  
 Dashboard, reporting, cleaning, SQL and analyst-focused supporting work.
