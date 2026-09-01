@@ -1,20 +1,21 @@
 # Jorgo Luka
 
 **MSc Artificial Intelligence & Data Science (Distinction)**  
-**Data Science · Data Engineering · ML / AI Engineering · Analytics / BI**
+**Graduate Data & AI · Data Science · Data Engineering · Applied ML**
 
-I build data and AI work from **raw data → cleaning → modelling → evaluation → business communication → engineering**. My earlier background was outside STEM, so I have deliberately built the portfolio around inspectable evidence: real data, clear baselines, leakage controls, reproducible results, testing, limitations and working engineering artefacts.
+I am a London-based AI and Data Science graduate who moved into technology after an earlier career outside STEM. I build work from **raw data → cleaning → modelling → evaluation → business communication → engineering**, with real or clearly labelled synthetic data, meaningful baselines, leakage controls, tests, limitations and reproducible evidence.
 
 ## Recruiter: 5-minute route
 
 | If you want to assess… | Start here |
 | --- | --- |
-| **Business Intelligence / Analytics** | **[Executive Commerce Intelligence — Power BI + Tableau](https://github.com/Jorgoluka100/uni_projects/tree/main/projects/executive_commerce_bi)** — governed KPIs, DAX/TMDL, Tableau workbook source and dashboard storytelling over 98,199 commercial orders |
-| **Data Science** | **[Flight Delay Risk Platform](https://github.com/Jorgoluka100/uni_projects/tree/main/projects/flight_delay_risk)** — official 2026 data, temporal validation and an untouched 180,000-flight test set |
 | **Data Engineering** | **[Reliable Event Pipeline](https://github.com/Jorgoluka100/uni_projects/tree/main/projects/reliable_event_pipeline)** — schema validation, rejects, deduplication, late data, idempotency, SQL checks and tests |
+| **Data Science** | **[Flight Delay Risk Platform](https://github.com/Jorgoluka100/uni_projects/tree/main/projects/flight_delay_risk)** — official 2026 data, temporal validation and an untouched 180,000-flight test set |
 | **ML / AI Engineering** | **[Grounded RAG](https://github.com/Jorgoluka100/uni_projects/tree/main/projects/grounded_rag)** — retrieval evaluation, citations, abstention, injection checks, FastAPI and Docker |
+| **Business Intelligence / Analytics** | **[Executive Commerce Intelligence — Power BI + Tableau](https://github.com/Jorgoluka100/uni_projects/tree/main/projects/executive_commerce_bi)** — governed KPIs, DAX/TMDL, Tableau workbook source and dashboard storytelling over 98,199 commercial orders |
 
 **[Full Foundation → Intermediate → Advanced hiring roadmap →](https://github.com/Jorgoluka100/uni_projects/blob/main/docs/HIRING_PORTFOLIO.md)**
+· **[All end-to-end projects by role and evidence →](https://github.com/Jorgoluka100/uni_projects/tree/main/projects)**
 
 ## Featured evidence
 
@@ -42,4 +43,4 @@ I build data and AI work from **raw data → cleaning → modelling → evaluati
 **[Main Data & AI portfolio →](https://github.com/Jorgoluka100/uni_projects)** — foundations plus end-to-end projects across Data Science, BI, engineering, SQL, applied AI, computer vision and monitoring.  
 **[Data Analyst portfolio →](https://github.com/Jorgoluka100/primed-talent-data-analyst-bootcamp)** — additional dashboard, reporting, cleaning and SQL work.
 
-I am targeting **internships, graduate schemes and entry-level roles** across Data Science, Data Engineering, ML / AI Engineering and Analytics / BI.
+I am open to **graduate and junior opportunities in London and across the UK** spanning Data Science, Data Engineering, ML / AI Engineering and Analytics.
