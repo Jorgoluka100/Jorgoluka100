@@ -9,6 +9,8 @@ I focus on evidence a hiring manager can inspect: real datasets, reproducible pi
 
 ## Recruiter: 60-second route
 
+**[Open every recruiter-facing `.ipynb` + its dataset/source →](https://github.com/Jorgoluka100/uni_projects/blob/main/docs/NOTEBOOKS_AND_DATASETS.md)**
+
 | Role | Best project | What you can verify |
 | --- | --- | --- |
 | **Data Science** | **[Flight Delay Risk Platform](https://github.com/Jorgoluka100/uni_projects/tree/main/projects/flight_delay_risk)** | Official 2026 flight data, chronological validation, untouched 180,000-flight test set, CatBoost, calibration/review strategy, FastAPI, Docker and CI |
